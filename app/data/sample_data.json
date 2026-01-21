@@ -1,0 +1,14 @@
+{
+    "entries": [
+        {
+            "date": "00000-00-00",
+            "title": "Introduction to FastAPI",
+            "description": "Learned what FastAPI does and how it can fast track the development of API's."
+        },
+        {
+            "date": "00000-00-00",
+            "title": "FastAPI and Pydantic",
+            "description": "Learn what routes are in FastAPI and how Pydantic models play an important role."
+        }
+    ]
+}
